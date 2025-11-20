@@ -1,7 +1,0 @@
-{
-  "name": "LivrariaOnline",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
